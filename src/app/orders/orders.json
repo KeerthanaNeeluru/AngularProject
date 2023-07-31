@@ -1,0 +1,93 @@
+[
+    {
+        "name":"Smith Ted",
+        "orders":["basket ball($90.98)","shoes($117)"],
+        "total":"$207.98"
+    },
+    {
+        "name":"Sam Frank",
+        "orders":["Water Bottle($8)","Cricket Ball($12.98)"],
+        "total":"$20.98"
+    },
+    {
+        "name":"Jane Doe",
+        "orders":["Wallet($55)","Tie($45)"],
+        "total":"$100"
+    },
+
+    {
+        "name":" Jane Smith",
+        "orders":["T-shirt($55)","Trouser($20.5)"],
+        "total":"$75.5"
+    },
+    {
+        "name":"David Johnson",
+        "orders":["Apple Watch Strap($200)"],
+        "total":"$200.25"
+    },
+    {
+        "name":"Sarah Williams",
+        "orders":["Victoria Secret Perfum($100),Wildcraft Bag($50.75)"],
+        "total":"$150.75"
+    },
+    {
+        "name":"Michael Brown",
+        "orders":["Dell Mouse($27),Keyboard Protection($10),Wrist Support($13)"],
+        "total":"$50"
+    },
+    {
+        "name":"Emily Davies",
+        "orders":["Lenovo Keyboard($44),HeadSet($36)"],
+        "total":"$80"
+    },
+    {
+        "name":"Danial Wilson",
+        "orders":["Samsung Mobile($120.5)"],
+        "total":"$120.5"
+    },
+    {
+        "name":"Olivia  Anderson",
+        "orders":["Spectacles($80),Specs Cleaning Liquid($15.25)"],
+        "total":"$95.25"
+    },
+    {
+        "name":"James Martinez",
+        "orders":["Neck Chain($180)"],
+        "total":"$180"
+    },
+    {
+        "name":"Sophia Garcia",
+        "orders":["Alice in the wonderland book($6.50),Yoga Book($17),Robinson Crusoe($20),Peter Pan($16.5)"],
+        "total":"$60"
+    },
+    {
+        "name":"William Rodriguez",
+        "orders":["Apple Tablet ($110.75)"],
+        "total":"$110.75"
+    },
+    {
+        "name":"Ava Hernandez",
+        "orders":["Remote Control Car($50),Batteries($20.5)"],
+        "total":"$70.5"
+    },
+    {
+        "name":"Benjamin Lopez",
+        "orders":["Wall Clock($30),Table Fan($50),Nike Shoe($50.25)"],
+        "total":"$130.25"
+    },
+    {
+        "name":"Mia Gonzalez",
+        "orders":["Storage Cabinate($20),couch Handbag($85)"],
+        "total":"$105"
+    },
+    {
+        "name":"Alexander Perez",
+        "orders":["One Plus TV($90.75)"],
+        "total":"$90.75"
+    },
+    {
+        "name":"Sofia Sanchez",
+        "orders":["Rare Beauty Conceller ($15.20), Mac Matt Lipstick ($11.80), Maybline Compact ($18),Mac Eyeshadow Palate ($25)"],
+        "total":"$70"
+    }
+]

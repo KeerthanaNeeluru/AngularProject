@@ -1,0 +1,184 @@
+{
+  "customer": [
+    {
+      "firstName": "Smith",
+      "lastName": "Ted",
+      "address": "111,abc street",
+      "city": "San Francisco",
+      "state": "CA",
+      "orderTotal": "$207.98",
+      "id": 1
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Frank",
+      "address": "222,XYZ street",
+      "city": "Florida",
+      "state": "FL",
+      "orderTotal": "$20.98",
+      "id": 2
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "orderTotal": "$100.0",
+      "id": 3
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Elm Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "orderTotal": "$75.5",
+      "id": 4
+    },
+    {
+      "firstName": "David",
+      "lastName": "Johnson",
+      "address": "789 Oak Road",
+      "city": "Chicago",
+      "state": "IL",
+      "orderTotal": "$200.25",
+      "id": 5
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Williams",
+      "address": "321 Cedar Lane",
+      "city": "Houston",
+      "state": "TX",
+      "orderTotal": "$150.75",
+      "id": 6
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "address": "555 Pine Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "orderTotal": "$50.0",
+      "id": 7
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "address": "987 Maple Avenue",
+      "city": "Seattle",
+      "state": "WA",
+      "orderTotal": "$80.0",
+      "id": 8
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Wilson",
+      "address": "222 Oak Street",
+      "city": "Boston",
+      "state": "MA",
+      "orderTotal": "$120.5",
+      "id": 9
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Anderson",
+      "address": "444 Elm Road",
+      "city": "Dallas",
+      "state": "TX",
+      "orderTotal": "$95.25",
+      "id": 10
+    },
+    {
+      "firstName": "James",
+      "lastName": "Martinez",
+      "address": "777 Maple Lane",
+      "city": "Miami",
+      "state": "FL",
+      "orderTotal": "$180.0",
+      "id": 11
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Garcia",
+      "address": "888 Pine Avenue",
+      "city": "Phoenix",
+      "state": "AZ",
+      "orderTotal": "$60.0",
+      "id": 12
+    },
+    {
+      "firstName": "William",
+      "lastName": "Rodriguez",
+      "address": "666 Cedar Street",
+      "city": "Denver",
+      "state": "CO",
+      "orderTotal": "$110.75",
+      "id": 13
+    },
+    {
+      "firstName": "Ava",
+      "lastName": "Hernandez",
+      "address": "111 Oak Lane",
+      "city": "Atlanta",
+      "state": "GA",
+      "orderTotal": "$70.5",
+      "id": 14
+    },
+    {
+      "firstName": "Benjamin",
+      "lastName": "Lopez",
+      "address": "333 Elm Road",
+      "city": "Philadelphia",
+      "state": "PA",
+      "orderTotal": "$130.25",
+      "id": 15
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "Gonzalez",
+      "address": "999 Maple Lane",
+      "city": "Washington",
+      "state": "DC",
+      "orderTotal": "$105.0",
+      "id": 16
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Perez",
+      "address": "444 Cedar Avenue",
+      "city": "Las Vegas",
+      "state": "NV",
+      "orderTotal": "$90.75",
+      "id": 17
+    },
+    {
+      "firstName": "Sofia",
+      "lastName": "Sanchez",
+      "address": "222 Pine Street",
+      "city": "Orlando",
+      "state": "FL",
+      "orderTotal": "$70.0",
+      "id": 18
+    },
+    {
+      "firstName": "keerthana",
+      "lastName": "Neeluru",
+      "address": "abd colony",
+      "city": "DMM",
+      "state": "AP",
+      "orderTotal": "111",
+      "id": 19
+    },
+    {
+      "firstName": "keerthana",
+      "lastName": "Neeluru",
+      "address": "abd colony",
+      "city": "DMM",
+      "state": "AP",
+      "orderTotal": "added",
+      "id": 20
+    }
+  ]
+}
